@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtereender",
+        "uuid": 26440270,
+        "checksum": "yo7y3"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
